@@ -12,8 +12,11 @@ If all 6 of your numbers match the drawn numbers, you receive a congratulatory m
 If not, the game encourages you to try again.
 
 Key Features:
+
 • Simple and intuitive console interface.
+
 • Random number generation ensures a unique game experience each time.
+
 • Immediate feedback on your performance with congratulatory messages for a perfect match.
 
 If you enjoy simple yet exciting games that test your luck and give you instant feedback, Lucky Six is the game for you!
