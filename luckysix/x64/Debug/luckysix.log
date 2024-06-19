@@ -1,0 +1,3 @@
+﻿  luckyisx.cpp
+C:\Users\Beba\source\repos\luckysix\luckyisx.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  luckysix.vcxproj -> C:\Users\Beba\source\repos\luckysix\x64\Debug\luckysix.exe
